@@ -1,7 +1,7 @@
 # Html-CSS-JSS_Course
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding Assignment, completed.
 
-Link:
+Link:https://github.com/kajalgoyal707/Html-CSS-JSS_Course/tree/main/Module%202-Coding%20Assignment-Solution
 
 Woo-hoo! You get to do some coding! Exciting!
 
